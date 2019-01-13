@@ -17,4 +17,4 @@ The application was designed using Builder, Composite, Data Access Object and Co
 
 Tools and Technologies used: Java, IntelliJ, Java Swing
 
-This project is stored in Northeastern's github private repository. The access to the repository is provided on request. Please mail me at vemuri.sr@husky.neu.edu for access.
+This project is stored in Northeastern's private github repository. Please mail me at vemuri.sr@husky.neu.edu to accesses this project.
